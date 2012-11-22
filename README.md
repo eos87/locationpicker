@@ -1,0 +1,4 @@
+locationpicker
+==============
+
+jQuery Location Picker
